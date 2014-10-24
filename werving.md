@@ -6,12 +6,15 @@ may be for you!
 
 ### About QuTech
 
-The Advanced Research Centre QuTech, currently housed at TU Delft, is
-seeking to move quantum computing and quantum communications from the
-theoretical to the engineering stage.  Quantum research in Delft is at the
-forefront of new developments with seminal breakthroughs in superconductor-
-and semiconductor-based qubits, the discovery of the Majorana fermion, and
-the recent demonstration of teleportation over a distance.
+The Advanced Research Centre [QuTech](http://www.qutech.nl), currently
+housed at [TU Delft](http://www.tudelft.nl), is seeking to move quantum
+computing and quantum communications from the theoretical to the engineering
+stage.  Quantum research in Delft is at the forefront of new developments
+with seminal breakthroughs in superconductor- and semiconductor-based
+qubits, the discovery of the [Majorana
+fermion](http://en.wikipedia.org/wiki/Majorana_fermion), and the recent
+demonstration of [teleportation](http://hansonlab.tudelft.nl/teleportation/)
+over a distance.
 
 ### About the role
 
@@ -43,7 +46,7 @@ Other skills we would love to see in a candidate:
 Academic research is highly dynamic, and responsibilities may change
 frequently! The core responsibilities are:
 
- * Maintain and fix current experimental software (QtLab)
+ * Maintain and fix current experimental software ([QtLab](https://github.com/heeres/qtlab))
  * Work with other researchers to enhance existing software to fit their
    needs
  * Merge the work from programming scientists to for a coherent whole
@@ -61,4 +64,6 @@ package. Salary and benefits are in accordance with the Collective Labour
 Agreement for Dutch Universities.
 
 ### Further information
-For more information, please contact x@tudelft.nl, or call +31-15-278xyzw. 
+More information about QuTech can be found on [http://qutech.nl].
+
+For more information about this vacancy, please contact x@tudelft.nl, or call +31-15-278xyzw. 
