@@ -8,7 +8,7 @@ may be for you!
 
 The Advanced Research Centre QuTech, currently housed at TU Delft, is
 seeking to move quantum computing and quantum communications from the
-theorertical to the engineering stage.  Quantum research in Delft is at the
+theoretical to the engineering stage.  Quantum research in Delft is at the
 forefront of new developments with seminal breakthroughs in superconductor-
 and semiconductor-based qubits, the discovery of the Majorana fermion, and
 the recent demonstration of teleportation over a distance.
