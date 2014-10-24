@@ -18,7 +18,8 @@ the recent demonstration of teleportation over a distance.
 As part of our research we develop software to actively control our
 experiments and process the resulting data.  In addition, some of the
 instruments we are building require high performance, real-time code to
-guide and influence the quantum states of our various qubits.
+guide and influence the quantum states of our various qubits. Eventually
+we'll also need to code to run on the quantum technology we are creating.
 
 QuTech is therefore looking for a skilled programmer to form the nucleus of
 our software development efforts.  Our requirements are:
@@ -35,6 +36,7 @@ Other skills we would love to see in a candidate:
  * Experience with software development in academia
  * A visible track record of open source work
  * FPGA development
+ * Experience in interfacing with sensors and instruments
 
 ### Responsibilities
 
@@ -46,8 +48,8 @@ frequently! The core responsibilities are:
    needs
  * Merge the work from programming scientists to for a coherent whole
  * Architect and spearhead the development of next generation software
- * Collaborate with other researchers to deliver experimental results as
-   publications
+ * (Co-)author papers with other researchers to document the results of your
+   work
 
 ### What we offer
 A stimulating environment that offers the chance to contribute to
