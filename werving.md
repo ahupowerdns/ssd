@@ -64,6 +64,6 @@ package. Salary and benefits are in accordance with the Collective Labour
 Agreement for Dutch Universities.
 
 ### Further information
-More information about QuTech can be found on [http://qutech.nl].
+More information about QuTech can be found on [qutech.nl](http://qutech.nl).
 
 For more information about this vacancy, please contact x@tudelft.nl, or call +31-15-278xyzw. 
