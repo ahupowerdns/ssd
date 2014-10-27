@@ -28,11 +28,12 @@ guide and influence the quantum states of our various qubits. Eventually
 we'll also need to code to run on the quantum technology we are creating.
 
 QuTech is therefore looking for a skilled programmer to form the nucleus of
-our software development efforts.  Our requirements are:
+our software development efforts.  This is a full-time position.  Our
+requirements are:
 
  * A background in physics or the exact sciences at an academic level
  * 5+ years of active software development and maintenance experience
- * Knowledge of in several of the following languages: Python, C++, 
+ * Knowledge of some of the following languages: Python, C++, 
    JavaScript, Java, Matlab
  * Proven ability to guide a project and keep it on track
  * Working proficiency in English, ability to work in Delft, The Netherlands
